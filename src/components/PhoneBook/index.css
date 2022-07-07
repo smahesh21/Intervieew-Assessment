@@ -1,0 +1,43 @@
+.heading-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.headings {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+  background-color: #cbe8f5;
+  height: 50px;
+  padding-top: 5px;
+}
+
+.form-element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input-element {
+  outline: none;
+  margin-right: 20px;
+}
+.label-element {
+  margin-bottom: 5px;
+}
+.add-button {
+  background-color: #25b7fa;
+  color: #ffffff;
+  border: none;
+  height: 30px;
+  border-radius: 5px;
+}
+.contact-list-section {
+  margin: 0px;
+  padding-left: 0px;
+}
